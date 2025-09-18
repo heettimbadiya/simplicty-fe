@@ -197,7 +197,7 @@ export default function HomeHero() {
             repeat: Infinity,
           }}
         >
-          Minimal
+          Simplicty
         </StyledTextGradient>
       </m.div>
 

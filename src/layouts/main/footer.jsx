@@ -21,7 +21,7 @@ import Iconify from 'src/components/iconify';
 
 const LINKS = [
   {
-    headline: 'Minimal',
+    headline: 'Simplicty',
     children: [
       { name: 'About us', href: paths.about },
       { name: 'Contact us', href: paths.contact },
@@ -104,7 +104,7 @@ export default function Footer() {
                 mx: { xs: 'auto', md: 'unset' },
               }}
             >
-              The starting point for your next project with Minimal UI Kit, built on the newest
+              The starting point for your next project with Simplicty UI Kit, built on the newest
               version of Material-UI ©, ready to be customized to your style.
             </Typography>
 

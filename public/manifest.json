@@ -1,6 +1,6 @@
 {
-  "name": "Minimal UI",
-  "short_name": "Minimal UI",
+  "name": "Simplicty UI",
+  "short_name": "Simplicty UI",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#000000",
